@@ -1,6 +1,6 @@
-#CRUD
+# Flask CRUD
 
-Teste com CRUD usando flask e suas ferramentas
+Testing Flask and learning about CRUD
 
 - Flask
 - flask_alchemy
@@ -9,7 +9,7 @@ Teste com CRUD usando flask e suas ferramentas
 - marshmallow_sqlalchemy
 - flask-jwt-extended
 
-# Como rodar esse projeto:
+# How to run this project:
 
 ```shell
 export FLASK_APP=app
@@ -19,7 +19,7 @@ export FLASK_Debug=True
 flask run
 ```
 
-# Migrações:
+# Migrations:
 
 ``sh
 flask db init
